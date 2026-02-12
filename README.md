@@ -1,5 +1,4 @@
 <h1 align="center"> ✨LawThinker: A Deep Research Legal Agent</br> in Dynamic Environments</a></h1>
->
 
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
