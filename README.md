@@ -1,10 +1,16 @@
-<h1 align="center"> ✨LawThinker: A Deep Research Legal Agent</br> in Dynamic Environments</a></h1>
+<h1 align="center">
+✨ LawThinker: A Deep Research Legal Agent <br/>
+in Dynamic Environments
+</h1>
 
 <div align="center">
-[![arXiv](https://img.shields.io/badge/arXiv-2602.12056-b31b1b.svg)](https://arxiv.org/abs/2602.12056)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
-  
+
+[![arXiv](https://img.shields.io/badge/arXiv-2602.12056-b31b1b?style=flat-square)](https://arxiv.org/abs/2602.12056)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square)](https://www.python.org/downloads/release/python-3100/)
+
+<br/>
+
 **If you find our work useful, please ⭐ star this repository for the latest updates.**
 
 </div>
