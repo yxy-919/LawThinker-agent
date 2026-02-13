@@ -1,5 +1,9 @@
 <h1 align="center"> ✨LawThinker: A Deep Research Legal Agent</br> in Dynamic Environments</a></h1>
 
+[![arXiv](https://img.shields.io/badge/arXiv-2602.12056-b31b1b.svg)](https://arxiv.org/abs/2602.12056)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
+
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 ## 💡 Overview
