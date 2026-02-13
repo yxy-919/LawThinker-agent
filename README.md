@@ -8,9 +8,7 @@ in Dynamic Environments
 [![arXiv](https://img.shields.io/badge/arXiv-2602.12056-b31b1b?style=flat-square)](https://arxiv.org/abs/2602.12056)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square)](https://www.python.org/downloads/release/python-3100/)
-
 <br/>
-
 **If you find our work useful, please ⭐ star this repository for the latest updates.**
 
 </div>
